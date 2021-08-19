@@ -121,7 +121,7 @@ function App() {
       <main className="emails">
         <Ul filteredEmails={filteredEmails}/>
       </main>
-    </div>
+    </div> 
   )
 }
 
